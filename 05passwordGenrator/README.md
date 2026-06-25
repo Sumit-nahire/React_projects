@@ -25,7 +25,6 @@ A simple and responsive Password Generator built with **React.js**, **Tailwind C
 
 ## 📸 Screenshot
 
-Add your project screenshot here:
 
 <img width="1080" height="292" alt="Screenshot " src="https://github.com/user-attachments/assets/61e35286-0a83-4a47-9fee-0d2117368aae" />
 
@@ -44,7 +43,7 @@ README.md
 
 1. Clone the repository
 
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/Sumit-nahire/React_projects/edit/main/05passwordGenrator.git
 
 2. Navigate to the project directory
 
