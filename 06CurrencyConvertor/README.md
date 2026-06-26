@@ -2,7 +2,6 @@
 
 A modern and responsive Currency Converter web application built using **React.js**, **Vite**, **Tailwind CSS**, and **Custom React Hooks**. It allows users to convert currencies in real time using a live exchange rate API.
 
----
 
 ## 🚀 Features
 
@@ -14,7 +13,6 @@ A modern and responsive Currency Converter web application built using **React.j
 - ⚛️ Built using React Hooks
 - 💨 Styled with Tailwind CSS
 
----
 
 ## 🛠️ Tech Stack
 
@@ -25,11 +23,7 @@ A modern and responsive Currency Converter web application built using **React.j
 - Custom Hooks
 - Exchange Rate API
 
----
-
 ## 📂 Project Structure
-
-```
 src/
 │
 ├── assets/
@@ -44,44 +38,32 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
-```
-
----
 
 ## 📦 Installation
 
 Clone the repository
-
-```bash
 git clone https://github.com/your-username/currency-converter.git
-```
 
 Move into the project
-
-```bash
 cd currency-converter
-```
 
 Install dependencies
-
-```bash
 npm install
-```
 
 Start the development server
-
-```bash
 npm run dev
-```
-
----
 
 ## 🌐 API Used
 
 Exchange Rate API
 
-```
 https://open.er-api.com/v6/latest/USD
+
+## ✨ Screenshots
+
+### Currency Convertor
+<img width="966" height="897" alt="img1" src="https://github.com/user-attachments/assets/e2123833-7585-4a1f-96b9-ce2144aae33e" />
+
 
 ## 🎯 Future Improvements
 
